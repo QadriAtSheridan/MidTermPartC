@@ -12,6 +12,7 @@ package midtermexam_versiona_extensioncode;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author dancye, 2019
+ *Ibrahim Qadri's change to the new branch for a fetch and merge 
  */
 public class UserProfile 
 {
